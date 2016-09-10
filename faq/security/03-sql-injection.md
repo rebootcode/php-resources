@@ -116,3 +116,4 @@ Other useful reading to check out:
 * [OWASP](https://www.owasp.org/index.php/SQL_Injection)
 * [SQL injection - a community paradoxon](http://the-phlog.tumblr.com/post/129182968120/sql-injection-a-community-paradoxon)
 * [Bobby Tables](http://bobby-tables.com/) - A guide to preventing SQL injection.
+* [SQL Injection Scenario](http://sqlinjection.w3clan.com/tutorial/129/sql-injection-scenario) - SQL Injection even after escaping
